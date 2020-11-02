@@ -9,7 +9,7 @@
 → `Visual studio Live server` 기능과 동일해야함.
 
 ### 로컬 스토리지 메소드
-
+![image](https://user-images.githubusercontent.com/51090557/97882929-8c713b00-1d67-11eb-94a8-abee0bd3587f.png)
 
 ## 객체(JSON)으로 저장하고 불러오기
 
